@@ -26,7 +26,7 @@ This notebook is not just for fun. This means that it may have a use. Because th
     <h1 align="center">phocid_plus_spectrogram</h1>
 </div>
 
-
+<img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/__results___18_1.png">
 
 
 
