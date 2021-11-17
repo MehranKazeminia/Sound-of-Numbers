@@ -18,3 +18,10 @@ This notebook is not just for fun. This means that it may have a use. Because th
 
 <img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/__results___54_6.png">
 
+## phocid_plus (b=3.7)
+
+<img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/__results___54_81.png">
+
+
+
+
