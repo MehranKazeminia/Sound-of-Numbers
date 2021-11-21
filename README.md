@@ -13,6 +13,10 @@ This notebook is not just for fun. This means that it may have a use. Because th
 
 <img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/__results___9_0.png">
 
+# Define the Phocid Equation
+
+<img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/__results___54_6.png">
+
 # Example:
 ## phocid_plus (b=1.2)
 
