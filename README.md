@@ -15,7 +15,7 @@ This notebook is not just for fun. This means that it may have a use. Because th
 
 # Define the Phocid Equation
 
-<img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/__results___54_6.png">
+<img src="https://raw.githubusercontent.com/MehranKazeminia/Sound-of-Numbers/main/phocid107.png">
 
 # Example:
 ## phocid_plus (b=1.2)
